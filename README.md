@@ -35,3 +35,18 @@ Not just a browser but an browser with a lot of useful tools like dociment scann
 <img src="https://github.com/user0234/projectmanagerap/assets/129966531/c5061700-6b74-4433-9e9a-b3d2b8145a69" width="250" height = "500"  title="Home">
 
 </p>
+
+#  News App
+
+  Checking News on the go, light weight and simple news based on user ip 
+
+<a href='https://github.com/user0234/FreeNewsViewApp&hl=en_IN&gl=US'><img alt='Get it on Github' src='https://raw.githubusercontent.com/ismartcoding/plain-app/main/assets/get-it-on-github.png' height='80px'/></a> 
+ 
+### Technolgies :  Using newsapi.org API , Single Activity Architecture, MVVM,Dagger Hilt, ROOM database,Retrofit 
+
+<p align="center">
+<img src="https://github.com/user0234/FreeNewsViewApp/assets/129966531/08a2129d-0010-4041-93de-e6c778a78f5c" width="250" height = "500"  title="Tools">
+  <img src="https://github.com/user0234/FreeNewsViewApp/assets/129966531/862cb614-fb5e-4cf1-894f-0dbfcc23bfde" width="250" height = "500"  title="Weather">
+<img src="https://github.com/user0234/FreeNewsViewApp/assets/129966531/689a90c9-dcaa-4dad-bd65-93ea92d784e5" width="250" height = "500"  title="Home">
+
+</p>
