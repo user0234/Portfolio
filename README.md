@@ -6,7 +6,7 @@
 
 # My Desktop Browser Application
 
-Not just a browser but an browser with a lot of useful tools like dociment scanner,weather, scanner, iptv etc , with an eye pleasing ui 
+A browser app i worked on during work from home internship, it has a lot of features 
 
 <a href='https://play.google.com/store/apps/details?id=com.lfb.desktopbrowser&hl=en_IN&gl=US'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a> 
  
@@ -22,7 +22,7 @@ Not just a browser but an browser with a lot of useful tools like dociment scann
 
 #  Trello clone
 
- App to assign tast to other user , manage your task 
+ App to assign tast to other user , manage your task i build during learning kotlin 
 
 <a href='https://github.com/user0234/projectmanagerap&hl=en_IN&gl=US'><img alt='Get it on Github' src='https://raw.githubusercontent.com/ismartcoding/plain-app/main/assets/get-it-on-github.png' height='80px'/></a> 
  
