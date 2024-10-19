@@ -69,3 +69,24 @@ A browser app i worked on during work from home internship, it has a lot of feat
  <img src="https://github.com/user0234/Note_MIUI_Clone/assets/129966531/bdba89e8-be6c-498e-ae0b-81f627110afb" width="250" height = "500"  title="Note View">
 
 </p>
+
+
+# Avadna Service Limited
+
+  I worked on the application during my first intership/Job. I mainly did debugging, documentation and bug fixing. 
+
+<a href='&hl=en_IN&gl=US'><img alt='Removed from playstore' src='' height='80px'/></a> 
+ 
+### Technolgies :   Room database, Audio Recoding, Dark mode, Chat, Razor pay, Retrofit
+
+<p align="center">
+<img src="https://image.winudf.com/v2/image1/Y29tLmF2YWRuYS5sdW5lYmxhemVfc2NyZWVuXzBfMTY1NTczMTU2MF8wMjM/screen-0.webp?fakeurl=1&type=.webp" width="250" height = "500"  title="Cards">
+  <img src="https://image.winudf.com/v2/image1/Y29tLmF2YWRuYS5sdW5lYmxhemVfc2NyZWVuXzFfMTY1NTczMTU2MV8wNjU/screen-1.webp?fakeurl=1&type=.webp" width="250" height = "500"  title="Home">
+</p> 
+
+<p align="center">
+<img src="https://image.winudf.com/v2/image1/Y29tLmF2YWRuYS5sdW5lYmxhemVfc2NyZWVuXzJfMTY1NTczMTU2Ml8wNTY/screen-2.webp?fakeurl=1&type=.webp" width="250" height = "500"  title="Quiz completion">
+  <img src="https://image.winudf.com/v2/image1/Y29tLmF2YWRuYS5sdW5lYmxhemVfc2NyZWVuXzNfMTY1NTczMTU2M18wMjQ/screen-3.webp?fakeurl=1&type=.webp" width="250" height = "500"  title="Custom Chat">
+ <img src="https://image.winudf.com/v2/image1/Y29tLmF2YWRuYS5sdW5lYmxhemVfc2NyZWVuXzRfMTY1NTczMTU2NF8wNTQ/screen-4.webp?fakeurl=1&type=.webp" width="250" height = "500"  title="Events and session">
+
+</p>
