@@ -77,7 +77,7 @@ A browser app i worked on during work from home internship, it has a lot of feat
 
 <a href='&hl=en_IN&gl=US'><img alt='Removed from playstore' src='' height='80px'/></a> 
  
-### Technolgies :   Room database, Audio Recoding, Dark mode, Chat, Razor pay, Retrofit
+### Technolgies :   Room database, Audio Recoding, Dark mode, Custom Chat, Razor pay, Retrofit, RestApi, lottie Animation, Epoxy Recyclerview 
 
 <p align="center">
 <img src="https://image.winudf.com/v2/image1/Y29tLmF2YWRuYS5sdW5lYmxhemVfc2NyZWVuXzBfMTY1NTczMTU2MF8wMjM/screen-0.webp?fakeurl=1&type=.webp" width="250" height = "500"  title="Cards">
