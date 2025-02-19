@@ -39,7 +39,7 @@ A browser app i worked on during work from home internship, it has a lot of feat
 
   Checking News on the go, light weight and simple news based on user ip and save them for later
 
-<a href='https://github.com/user0234/FreeNewsViewApp&hl=en_IN&gl=US'><img alt='Get it on Github' src='https://raw.githubusercontent.com/ismartcoding/plain-app/main/assets/get-it-on-github.png' height='80px'/></a> 
+<a href='https://github.com/user0234/FreeNewsViewApp'><img alt='Get it on Github' src='https://raw.githubusercontent.com/ismartcoding/plain-app/main/assets/get-it-on-github.png' height='80px'/></a> 
  
 ### Technolgies :  Using newsapi.org API, Single Activity Architecture, MVVM,Dagger Hilt, ROOM database, Retrofit, Offline Page.
 
